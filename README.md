@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name is Dibyadipan Bhattacharya
+I am currently Learning MERN stack.
+My pronouns are he/him.
+
 
 <!--
 **ItzzDibyadipann/ItzzDibyadipann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
