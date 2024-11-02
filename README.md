@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Dibyadipan Bhattacharya
-I am currently Learning MERN stack.
+I am currently Learning Cybersecurity.
 My pronouns are he/him.
 
 
