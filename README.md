@@ -28,6 +28,7 @@ Languages: Java, JavaScript, HTML/CSS, TypeScript, Python
 Frameworks: Bootstrap, Flutter
 Hardware: Arduino, Raspberry Pi, ESP32 (for engineering projects)
 Databases: MongoDB, Postgres
+
 ✨ Let's Connect: I enjoy learning in public and sharing my journey on LinkedIn.
 
 Thank you for visiting my profile! Let's collaborate and innovate together.
